@@ -1,4 +1,4 @@
-# NLP Emotion Detection - Final Project
+# Final Project
 
 A web application that uses IBM Watson NLP to detect emotions in text. Users enter a statement and the app returns scores for five emotions — anger, disgust, fear, joy, and sadness — along with the dominant emotion.
 
@@ -36,14 +36,6 @@ oaqjp-final-project-emb-ai/
 │
 ├── server.py                     # Flask app with /emotionDetector route
 ├── test_emotion_detection.py     # Unit tests
-├── 2a_emotion_detection          # Lab checkpoint: emotion detection
-├── 3a_output_formatting          # Lab checkpoint: output formatting
-├── 3b_formatted_output_test      # Lab checkpoint: formatted output test
-├── 4b_packaging_test             # Lab checkpoint: packaging test
-├── 5a_unit_testing               # Lab checkpoint: unit testing
-├── 5b_unit_testing_result        # Lab checkpoint: unit testing result
-├── .gitignore
-├── LICENSE
 └── README.md
 ```
 
